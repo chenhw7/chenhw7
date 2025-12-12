@@ -8,7 +8,7 @@ Published **[“CMAC-Net: Cascade Multi-Scale Attention Convolution Network for 
 
 ---
 
-💼 **Current Reality (The “Grown-Up” Chapter)**  
+💼 **Current Reality**  
 Working as a Software Engineer at a new energy car company in Guangzhou.  
 Doing **Go backend magic** + tinkering with **AI Agent R&D**.  
 Yes—I temporarily **succumbed to the siren call of reality**, but my heart still beats for CV & DL ❤️‍🔥.
@@ -19,18 +19,3 @@ Yes—I temporarily **succumbed to the siren call of reality**, but my heart sti
 Long to return to my true love: **Computer Vision & Deep Learning**.  
 Hopeful to one day **rekindle my torch and set the world ablaze** in research.  
 Also wildly curious about the future of robotics—joining a bot-squad would make my inner geek throw a party! 🤖🎉
-
-<!--
-**chenhw7/chenhw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
