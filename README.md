@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aha! You found me!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9224F7&repeat=false&width=435&lines=Aha!+You+found+me!)](https://git.io/typing-svg)
 
 <!--
 **chenhw7/chenhw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
