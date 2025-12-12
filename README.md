@@ -9,7 +9,7 @@ Published **[“CMAC-Net: Cascade Multi-Scale Attention Convolution Network for 
 ---
 
 💼 **Current Reality**  
-Working as a Software Engineer at a new energy car company in Guangzhou.  
+Working as a Software Engineer at an **electric vehicle (EV) company** in Guangzhou.  
 Doing **Go backend magic** + tinkering with **AI Agent R&D**.  
 Yes—I temporarily **succumbed to the siren call of reality**, but my heart still beats for CV & DL ❤️‍🔥.
 
