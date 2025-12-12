@@ -4,9 +4,7 @@
 
 🎓 **Edu-Glow-Up**  
 Master’s from SCNU, diving deep into Computer Vision.  
-Published a paper:  
-> **“CMAC-Net: Cascade Multi-Scale Attention Convolution Network for diabetic retinopathy lesion segmentation”**  
-> 📜 *[Read it here](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009954)*
+Published **[“CMAC-Net: Cascade Multi-Scale Attention Convolution Network for diabetic retinopathy lesion segmentation”](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009954)**.
 
 ---
 
